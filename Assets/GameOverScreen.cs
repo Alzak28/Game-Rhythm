@@ -6,6 +6,6 @@ public class GameOverScreen : MonoBehaviour
     public void RestartGame()
     {
         // Muat ulang scene permainan
-        SceneManager.LoadScene("StartGame");
+        SceneManager.LoadScene("SampleScene");
     }
 }

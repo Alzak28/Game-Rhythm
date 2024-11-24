@@ -773,7 +773,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   forwardSpeed: 10
   lateralSpeed: 10
-  obstacleTag: Obstacle
+  fallThreshold: -10
+  gravityMultiplier: 2
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
